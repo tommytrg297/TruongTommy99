@@ -1,3 +1,3 @@
-Hey, my name is Truong Nhu Phat Tommy! I am currently Majoring in ComputerScience / Minor in Mathematics at Rensselear Polytechnic Institute. 
+Hey, my name is Truong Nhu Phat Tommy! I am currently majoring in Computer Science at Rensselear Polytechnic Institute. 
 
 
